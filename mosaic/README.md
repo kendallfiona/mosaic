@@ -14,7 +14,7 @@ This FastAPI project provides an API to retrieve aggregated electric vehicle (EV
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo-url
+   git clone https://github.com/kendallfiona/mosaic/
 
 2. Navigate to the project directory:
    `cd project-root`
